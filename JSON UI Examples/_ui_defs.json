@@ -1,0 +1,15 @@
+{
+    "ui_defs": [
+        "ui/form.json",
+        "ui/menu.json",
+        "ui/stat.json",
+        "ui/guild.json",
+        "ui/gmenu.json",
+        "ui/ginfo.json",
+        "ui/quest.json",
+        "ui/skill.json",
+        "ui/craft.json",
+        "ui/npc.json",
+        "ui/shop.json"
+    ]
+}
